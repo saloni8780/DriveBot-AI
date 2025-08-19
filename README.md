@@ -58,10 +58,10 @@ To run this project locally, you will need n8n, ngrok, and all necessary API cre
 Connect your phone to the Twilio Sandbox and send commands directly in the WhatsApp chat.
 
 - `LIST /ProjectX`
-- `DELETE /ProjectX/Filename.pdf
-- To upload, simply attach a document and send it.
-- MOVE /ProjectX/Filename.pdf/Archive
-- SUMMARY /ProjectX
+- `DELETE /ProjectX/Filename.pdf`
+- `To upload, simply attach a document and send it.`
+- `MOVE /ProjectX/Filename.pdf/Archive`
+- `SUMMARY /ProjectX`
   
 ---
 ## Demo
