@@ -3,8 +3,10 @@
 A powerful chatbot built with n8n that allows you to manage your Google Drive files and generate AI-powered summaries directly from WhatsApp.
 
 ## Demo
-
-
+![1](https://github.com/user-attachments/assets/0b8a86ff-19a5-4300-8e23-99911d1695f3)
+![2](https://github.com/user-attachments/assets/1af11494-4185-4c5a-8b54-a9c2281b88d8)
+![3](https://github.com/user-attachments/assets/7a71198b-cdb8-40c8-a510-1f334a29de0d)
+![4](https://github.com/user-attachments/assets/bae8ff46-411d-449c-a9d6-a021cfbb963c)
 
 ---
 
@@ -62,7 +64,7 @@ To run this project locally, you will need n8n, ngrok, and all necessary API cre
 Connect your phone to the Twilio Sandbox and send commands directly in the WhatsApp chat.
 
 - `LIST /ProjectX`
-- `DELETE /ProjectX/Filename
+- `DELETE /ProjectX/Filename.pdf
 - To upload, simply attach a document and send it.
-- MOVE /ProjectX/Filename/Archive
+- MOVE /ProjectX/Filename.pdf/Archive
 - SUMMARY /ProjectX
