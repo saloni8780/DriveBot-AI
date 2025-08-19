@@ -38,8 +38,8 @@ To run this project locally, you will need n8n, ngrok, and all necessary API cre
 
 2.  **Clone the Repository:**
     ```bash
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone https://github.com/saloni8780/DriveBot-AI.git
+    cd DriveBot-AI
     ```
 
 3.  **Set Up Credentials:**
