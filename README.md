@@ -3,7 +3,6 @@
 A powerful chatbot built with n8n that allows you to manage your Google Drive files and generate AI-powered summaries directly from WhatsApp.
 
 ## Demo
-<img src="![1](https://github.com/user-attachments/assets/0b8a86ff-19a5-4300-8e23-99911d1695f3)" alt="WhatsApp Bot Demo" width="50%">
 ![1](https://github.com/user-attachments/assets/0b8a86ff-19a5-4300-8e23-99911d1695f3)
 ![2](https://github.com/user-attachments/assets/1af11494-4185-4c5a-8b54-a9c2281b88d8)
 ![3](https://github.com/user-attachments/assets/7a71198b-cdb8-40c8-a510-1f334a29de0d)
